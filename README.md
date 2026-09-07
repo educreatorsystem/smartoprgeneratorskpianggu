@@ -21,3 +21,8 @@ Fail ini sedia untuk diterbitkan melalui GitHub Pages.
 PWA menggunakan laluan relatif dan sesuai untuk GitHub Pages. Sambungan Google Sheet dan Google Drive menggunakan konfigurasi SK Pianggu.
 
 > `Code.gs` perlu dideploy melalui Google Apps Script. Fail ini disertakan dalam ZIP sebagai rujukan/kod backend.
+
+## Konfigurasi semasa
+- Sheet ID: `1GQG64r6T0zGb052TGJ3Wtf04D6kgjQ4EfJdP0vo8uKk`
+- Drive Folder ID: `1n6RrDekozKLJ1ngeqBThfGPZASQVYCWw`
+- Apps Script URL telah ditetapkan dalam `index.html`.
