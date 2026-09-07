@@ -4,8 +4,8 @@
  * Fungsi: read, create, update, delete dan upload gambar ke Google Drive.
  */
 
-const DEFAULT_SHEET_ID = '1GQG64r6T0zGb052TGJ3Wtf04D6kgjQ4EfJdP0vo8uKk';
-const DEFAULT_FOLDER_ID = '1n6RrDekozKLJ1ngeqBThfGPZASQVYCWw';
+const DEFAULT_SHEET_ID = '1a30dcQ1hOgTHJe0nraHKZCp3_Dd4Q-KTrH7miVxnxiY';
+const DEFAULT_FOLDER_ID = '17VyCF8-8cSmeIPnGZgVZwHdPuLrRns26';
 
 function doGet(e) {
   try {

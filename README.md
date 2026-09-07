@@ -23,6 +23,6 @@ PWA menggunakan laluan relatif dan sesuai untuk GitHub Pages. Sambungan Google S
 > `Code.gs` perlu dideploy melalui Google Apps Script. Fail ini disertakan dalam ZIP sebagai rujukan/kod backend.
 
 ## Konfigurasi semasa
-- Sheet ID: `1GQG64r6T0zGb052TGJ3Wtf04D6kgjQ4EfJdP0vo8uKk`
-- Drive Folder ID: `1n6RrDekozKLJ1ngeqBThfGPZASQVYCWw`
-- Apps Script URL telah ditetapkan dalam `index.html`.
+- Sheet ID: `1a30dcQ1hOgTHJe0nraHKZCp3_Dd4Q-KTrH7miVxnxiY`
+- Drive Folder ID: `17VyCF8-8cSmeIPnGZgVZwHdPuLrRns26`
+- Apps Script URL: `https://script.google.com/macros/s/AKfycbz0J25FhanYXblXGMiGTlPZ7AhCcrTFhaiFvwe4dYjMnsxkmoNKOsYf1TU4RhxzGsVCWw/exec`
