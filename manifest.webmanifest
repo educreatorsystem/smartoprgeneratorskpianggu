@@ -1,0 +1,43 @@
+{
+  "id": "./",
+  "name": "Sistem OPR - Sekolah Kebangsaan Pianggu",
+  "short_name": "OPR SKP",
+  "description": "Sistem Penjana Laporan One Page Report (OPR) dan Kalendar Program Sekolah Kebangsaan Pianggu.",
+  "lang": "ms-MY",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "any",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0a3651",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
